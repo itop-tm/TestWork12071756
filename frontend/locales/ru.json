@@ -1,0 +1,9 @@
+{
+    "payments": {
+        "state": {
+            "PENDING": "Выполняется",
+            "SUCCESS": "Выполнен",
+            "FAILED": "Ошибка"
+        }
+    }
+}

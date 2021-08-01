@@ -1,0 +1,9 @@
+{
+    "payments": {
+        "state": {
+            "PENDING": "Pending",
+            "SUCCESS": "Success",
+            "FAILED": "Failed"
+        }
+    }
+} 
